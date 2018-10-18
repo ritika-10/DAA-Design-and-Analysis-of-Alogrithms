@@ -24,7 +24,6 @@ bool range(int a[],int n,int *l,int *u, int key)
 	*u=ul;
 	return flag; 
 }
-
 void Jsearch(int a[], int n, int k)
 {
 	bool flag=false,check;
