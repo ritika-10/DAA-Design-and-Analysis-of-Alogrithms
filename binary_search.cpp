@@ -25,11 +25,11 @@ void Bsearch(int a[],int l, int u, int k)
 	}	
 	if(flag)
 	{
-		cout<<"PRESENT "<<k<<endl;
+		cout<<"Found"<<k<<endl;
 	}
 	else
 	{
-		cout<<"NOT PRESENT "<<k<<endl;
+		cout<<"Not Found "<<k<<endl;
 	}
 }
 
